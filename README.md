@@ -1,4 +1,3 @@
-```markdown
 # FullScreenDrawerDialog
 
 一个零依赖、纯 Java 实现的 **Android 全屏底部抽屉弹窗**。支持加载任意 XML 布局，下拉拖拽关闭，淡入淡出动画，通过回调即可拿到布局内任意子控件实例并进行控制。
