@@ -82,7 +82,7 @@ dependencies {
 在 Java 文件中导入：
 
 ```java
-import com.ic0868cc7f7e397aa.FullScreenDrawerDialog;
+import mr.x.fdd.FullScreenDrawerDialog;
 ```
 
 调用示例：
